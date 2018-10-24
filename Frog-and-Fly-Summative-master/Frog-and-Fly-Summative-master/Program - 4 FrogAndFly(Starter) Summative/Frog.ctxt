@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Frog
+comment0.text=\r\n\ 10\ marks\r\n
+comment1.params=
+comment1.target=Frog()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Lobster\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=direction
+comment3.target=void\ walk(int)
+comment3.text=\r\n\ move\ allows\ the\ Frog\ to\ walk\ in\ a\ disoriented\ motion.\r\n\ The\ Frog\ turns\ 35%\ of\ the\ time,of\ that\ 35%,50%\ of\ the\ time\ the\ Frog\ turns\ counterclockwise\ 15\ degrees\ and\ the\ other\ \r\n\ 50%\ of\ the\ time\ it\ turns\ clockwise\ 15\ degrees.Then\ the\ Frog\ \ moves\ 4\ -\ 8\ pixles\ in\ the\ current\ direction\r\n\ \r\n\ @param\ One\ There\ is\ an\ integer\ indicating\ the\ direction,\ so\ one\ parameter\r\n\ @return\ Nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ checkForFly()
+comment4.text=\r\n\ checkForFly\ causes\ the\ game\ to\ end\ if\ the\ Frog\ touches\ the\ Fly\ object\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment5.params=
+comment5.target=void\ checkTheParameters()
+comment5.text=\r\n\ checkTheParameters\ allows\ the\ Frog\ to\ turn\ 7\ degrees\ when\ it\ hits\ the\ edge\ of\ the\ world\r\n\ \r\n\ @param\ None\ Thare\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+numComments=6

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Fly
+comment0.text=\r\n\r\n\ Have\ the\ fly\ count\ how\ many\ Food\ object\ it\ eats\ (2\ marks)\r\n\ Every\ time\ the\ fly\ eats\ all\ 10\ Food\ objects,\ add\ 10\ more\ Food\r\n\ objects\ to\ the\ world\ and\ continue\ playing.\ (3\ marks)\r\n\ \r\n
+comment1.params=
+comment1.target=Fly()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkForKeys()
+comment3.text=\r\n\ Make\ the\ fly\ turn\ left\ or\ right\ 5\ degrees\ when\r\n\ the\ left\ or\ right\ arrow\ key\ is\ pressed.\ \r\n
+comment4.params=
+comment4.target=void\ checkForFood()
+comment4.text=\r\n\ If\ the\ fly\ touches\ a\ Food\ object,\ remove\ the\ Food\ object\r\n\ from\ the\ world.\ \r\n
+numComments=5
